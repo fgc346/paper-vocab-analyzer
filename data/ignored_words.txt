@@ -18,6 +18,7 @@ crossattention
 crossmodal
 crossmodality
 crossmodility
+detclip
 dev
 dinov
 flickr
@@ -36,6 +37,7 @@ mar
 minival
 mscoco
 nocaps
+odinw
 openimages
 openvocabulary
 pascal
