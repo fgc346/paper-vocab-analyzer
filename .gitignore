@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+logs/
+data/last_unknown_words.txt
+data/unknown_words.txt
+data/paper_history.json
+data/known_words.txt
